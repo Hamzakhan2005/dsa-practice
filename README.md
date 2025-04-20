@@ -7,7 +7,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 
 ### 📁 Folder Structure:
 Each folder contains topic-wise problems:
-- `arrays/`: Sliding window, prefix sums, etc.
+- `arrays/`: 
 - `strings/`: Palindrome, anagrams, etc.
 - `linked-list/`: Reversal, cycle detection, etc.
 - `trees/`: Traversals, BST, etc.
