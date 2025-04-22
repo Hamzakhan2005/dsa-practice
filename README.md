@@ -8,7 +8,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 ### 📁 Folder Structure:
 Each folder contains topic-wise problems:
 - `arrays/`
-- 
+- `sorting/`
 - `linked-list/`
 - `trees/`
 - `dp/`
