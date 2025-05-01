@@ -9,6 +9,7 @@ This repository contains my personal solutions to Data Structures and Algorithms
 Each folder contains topic-wise problems:
 - `arrays/`
 - `sorting/`
+- `bit-manipulation/`
 - `linked-list/`
 - `trees/`
 - `dp/`
