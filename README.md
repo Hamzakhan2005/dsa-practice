@@ -10,6 +10,7 @@ Each folder contains topic-wise problems:
 - `arrays/`
 - `arraylist/`
 - `sorting/`
+- `recursion/`
 - `oops/`
 - `bit-manipulation/`
 - `linked-list/`
