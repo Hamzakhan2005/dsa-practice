@@ -12,6 +12,7 @@ Each folder contains topic-wise problems:
 - `sorting/`
 - `recursion/`
 - `oops/`
+- `backtracking/`
 - `bit-manipulation/`
 - `linked-list/`
 - `trees/`
